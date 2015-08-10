@@ -30,6 +30,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/rehan-0601/Todo/blob/master/SimpleTodo1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Video Walkthrough - updated To Do with additional features
+<img src='https://github.com/rehan-0601/Todo/blob/master/Todo_updated.gif' title='Video Walkthrough-updated Todo App' width='' alt='Vid Walk-updated' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
