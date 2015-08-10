@@ -4,7 +4,8 @@ Todo is an android app that allows building a todo list and basic todo items man
 
 Submitted by: Rehan Mulla
 
-Time spent: 5 hours spent in total
+Time spent: 5 hours spent in total for basic functionality
+Time spent: 12 hours for additional optional/suggested features
 
 ## User Stories
 
@@ -15,7 +16,13 @@ The following **required** functionality is completed:
 * [3] User can **persist todo items** and retrieve them properly on app restart
 
 The following **optional** features are implemented:
-* None
+* Persist the Todo Items into SQLLite
+* Improve style of To Do Items using a custom adapter
+* Add support for completion due dates and display within list view
+* Use a Dialog Fragment instead of an activity for the Edit Item workflow
+* Added support for selecting priority(1-3) for each To Do Item and displaying in the list view
+* Tweak UX by showing Different colors for Priority field based on selected value.
+* UX enhancement - when the due Date = todays date, the Date is shown in red on the list view
 
 ## Video Walkthrough 
 
